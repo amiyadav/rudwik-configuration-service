@@ -1,4 +1,4 @@
 spring:
   application:
-    name: custom-service
+    name: custom-service-prod
     env: prod
